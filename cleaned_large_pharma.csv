@@ -1,0 +1,201 @@
+StockiestCode,StockiestName,ProductCode,ProductName,ScanProductName,OpeningQuantity,ReceiptQuantity,IntransitQuantity,ClosingQuantity,SalesQuantity,Month
+AB557613,Medico Distributors,PRD911,Herbal Cough Syrup,notfound,299,14.0,55,319,252,March-2022
+AB991249,Lifeline Meds,PRD857,Immune Booster,Antiseptic Solution,903,11.0,37,642,220,January-2022
+AB463755,Zenith Drugs,PRD446,Motion Sickness Tablets,notfound,489,112.0,395,596,400,January-2023
+AB263215,BlueCross Med,PRD446,Laxative Powder,Laxative Powder,426,544.0,31,985,16,April-2024
+AB991249,CureWell Pharma,PRD954,Digestive Enzyme,Calcium Tablets,150,481.0,0,828,142,March-2023
+AB650596,Global Health Corp,PRD600,Antacid Suspension,Dental Gel,45,374.0,14,827,138,April-2022
+AB697980,Lifeline Meds,PRD347,Vitamin D3 Tablets,Thyroid Support,762,356.0,58,451,202,April-2022
+AB852944,Sterling Remedies,PRD607,Iron Supplement,Anti-Malarial Tablets,59,464.0,35,966,403,April-2022
+AB691907,OmniPharm Ltd.,PRD736,Anti-Fungal Cream,Herbal Cough Syrup,775,411.0,26,241,46,March-0
+AB394675,Global Health Corp,PRD731,Herbal Cough Syrup,HeartCare Capsules,652,173.0,75,607,187,March-0
+AB512147,Pulse Pharma,PRD914,Antacid Suspension,notfound,776,276.0,-268,706,78,January-2024
+AB991249,Prime Medicals,PRD396,Motion Sickness Tablets,notfound,2,452.0,30,611,166,March-2023
+AB467618,Medico Distributors,PRD857,Fever Reducer,Iron Supplement,521,457.0,85,410,55,March-2023
+AB831874,Medico Distributors,PRD409,Wound Healing Spray,Blood Purifier,240,403.0,71,515,434,March-2024
+AB394675,Sunrise Meds,PRD528,Skin Brightening Cream,notfound,276,128.0,31,28,481,April-2022
+AB697650,OmniPharm Ltd.,PRD881,Herbal Cough Syrup,Skin Ointment,309,456.0,210,897,78,January-2023
+AB691907,CureWell Pharma,PRD879,Blood Purifier,Anti-Hypertensive,848,137.0,0,649,311,February-2022
+AB253519,CureWell Pharma,PRD528,Skin Brightening Cream,Calcium Tablets,182,281.0,56,791,62,January-2024
+AB578442,Alpha Pharma,PRD150,Oral Rehydration Salts,Gastric Relief Tablets,765,373.0,58,307,319,March-2024
+AB852944,Nova Lifecare,PRD140,Skin Brightening Cream,Steroid Cream,566,239.0,29,784,50,March-2024
+AB114511,Sterling Remedies,PRD476,Nasal Spray,Herbal Cough Syrup,458,313.0,8,974,118,February-2024
+AB253519,BlueCross Med,PRD826,Motion Sickness Tablets,Amoxicillin 250mg,291,432.0,62,490,478,March-2022
+AB512147,BlueCross Med,PRD742,Baby Lotion,Digestive Enzyme,712,417.0,67,696,56,April-2023
+AB263215,Alpha Pharma,PRD976,Baby Lotion,Anti-Hypertensive,951,282.0,91,524,466,January-2023
+AB253519,HealMore Agency,PRD647,Fever Reducer,Anti-Fungal Cream,91,112.0,87,135,201,February-2022
+AB467618,CureWell Pharma,PRD914,Nasal Spray,Menstrual Pain Relief,64,477.0,62,442,285,February-2023
+AB912424,Pulse Pharma,PRD763,Menstrual Pain Relief,notfound,965,113.0,0,500,289,February-2023
+AB831874,OmniPharm Ltd.,PRD895,HeartCare Capsules,notfound,969,282.0,89,264,99,February-2023
+AB467618,GoodHealth Traders,PRD121,Skin Ointment,Iron Supplement,922,454.0,-671,314,391,March-2022
+AB912424,Lifeline Meds,PRD881,Gastric Relief Tablets,Liver Tonic,909,292.0,30,422,151,March-2022
+AB697650,Sunrise Meds,PRD409,Joint Pain Oil,Energy Booster,278,88.0,36,253,157,March-2022
+AB831874,TruMed Solutions,PRD607,Iron Supplement,Diabetes Care Tablets,347,190.0,33,998,366,April-2022
+AB463755,Zenith Drugs,PRD676,Allergy Tablets,Anti-Anxiety Tablets,714,225.0,16,403,461,March-2023
+AB114511,OmniPharm Ltd.,PRD617,Menstrual Pain Relief,notfound,751,120.0,0,413,310,March-2024
+AB697980,Medico Distributors,PRD607,Insulin Injection,Digestive Enzyme,972,438.0,0,525,422,February-2023
+AB463755,HealMore Agency,PRD826,Herbal Cough Syrup,Anti-Hypertensive,223,369.0,60,746,124,January-2024
+AB263215,Careplus Distributors,PRD780,Immune Booster,Muscle Relaxant,599,90.0,98,58,1,March-0
+AB697650,Global Health Corp,PRD205,Fever Reducer,Digestive Enzyme,316,149.0,100,635,361,February-2022
+AB114511,CureWell Pharma,PRD895,Steroid Cream,B-Complex Tablets,542,435.0,92,394,4,January-2023
+AB578442,Prime Medicals,PRD976,Digestive Enzyme,Anti-Hypertensive,924,180.0,29,94,437,April-2023
+AB557613,Zenith Drugs,PRD476,Sleep Aid Tablets,Energy Booster,125,458.0,78,256,100,April-0
+AB852944,Alpha Pharma,PRD205,Cholesterol Control,Menstrual Pain Relief,437,208.0,95,845,454,February-2024
+AB831874,BetterLife Pharma,PRD647,Motion Sickness Tablets,Paracetamol 500mg,57,143.0,79,451,435,March-0
+AB467618,Zenith Drugs,PRD976,Calcium Tablets,notfound,944,311.0,52,416,110,February-2024
+AB852944,Sunrise Meds,PRD676,Antiseptic Solution,Muscle Relaxant,635,376.0,12,4,375,February-2022
+AB107743,Nova Lifecare,PRD647,Motion Sickness Tablets,Baby Lotion,195,319.0,3,437,204,March-2022
+AB253519,Sterling Remedies,PRD510,Immune Booster,Dental Gel,789,385.0,55,338,409,February-2024
+AB657126,Careplus Distributors,PRD347,Laxative Powder,notfound,174,296.0,14,166,444,March-2024
+AB557613,Sterling Remedies,PRD899,Ear Drops,Diabetes Care Tablets,63,239.0,79,297,284,January-2023
+AB697980,Prime Medicals,PRD999,Dental Gel,Skin Brightening Cream,212,45.0,29,649,129,February-2024
+AB107743,Pulse Pharma,PRD121,B-Complex Tablets,Antacid Suspension,791,0.0,70,343,414,April-2022
+AB852944,Vision Healthcare,PRD446,Immune Booster,Allergy Tablets,523,125.0,33,254,0,April-2024
+AB697650,TruMed Solutions,PRD914,Sleep Aid Tablets,notfound,804,324.0,58,450,412,January-2023
+AB650596,OmniPharm Ltd.,PRD446,Anti-Fungal Cream,Energy Booster,653,204.0,22,879,29,February-2022
+AB512147,GoodHealth Traders,PRD455,Iron Supplement,notfound,23,247.0,47,159,2,April-2022
+AB650596,BetterLife Pharma,PRD214,Dental Gel,Zincovit Syrup,29,355.0,67,797,481,April-2024
+AB650596,Zenith Drugs,PRD954,Amoxicillin 250mg,Digestive Enzyme,835,410.0,12,450,434,January-2023
+AB831874,OmniPharm Ltd.,PRD315,Cholesterol Control,Acne Gel,892,298.0,70,877,355,March-2022
+AB840718,HealMore Agency,PRD121,Paracetamol 500mg,B-Complex Tablets,350,808.0,32,904,286,March-2024
+AB852944,Zenith Drugs,PRD789,Liver Tonic,Thyroid Support,368,302.0,-20,518,132,April-2022
+AB512147,Careplus Distributors,PRD600,Laxative Powder,Liver Tonic,917,225.0,83,943,185,January-2023
+AB394675,TruMed Solutions,PRD826,Gastric Relief Tablets,Skin Ointment,391,276.0,42,762,67,April-2022
+AB467618,Medico Distributors,PRD857,Herbal Cough Syrup,Gastric Relief Tablets,664,461.0,99,981,94,January-2023
+AB263215,BetterLife Pharma,PRD396,Immune Booster,Digestive Enzyme,731,340.0,25,463,197,January-2022
+AB657126,Vision Healthcare,PRD347,Sleep Aid Tablets,Iron Supplement,103,83.0,1053,963,276,February-2024
+AB394675,Careplus Distributors,PRD879,Joint Pain Oil,Iron Supplement,235,50.0,95,863,435,April-2024
+AB512147,OmniPharm Ltd.,PRD409,Digestive Enzyme,Anti-Anxiety Tablets,714,475.0,47,552,197,April-2022
+AB697650,Careplus Distributors,PRD763,Laxative Powder,Dental Gel,561,354.0,42,751,43,February-2023
+AB263215,Sunrise Meds,PRD789,Acne Gel,Insulin Injection,465,422.0,-135,410,342,February-2022
+AB114511,BlueCross Med,PRD985,Digestive Enzyme,Joint Pain Oil,241,437.0,19,941,110,April-2022
+AB657126,HealMore Agency,PRD121,Calcium Tablets,Antacid Suspension,853,45.0,9,789,150,February-2023
+AB991249,Alpha Pharma,PRD150,B-Complex Tablets,Energy Booster,120,242.0,0,601,385,February-2024
+AB107743,Sunrise Meds,PRD825,Pain Relief Gel,HeartCare Capsules,774,364.0,75,507,298,January-2022
+AB463755,Global Health Corp,PRD826,Probiotic Capsules,Baby Lotion,838,301.0,68,918,398,March-0
+AB512147,Nova Lifecare,PRD151,Antacid Suspension,Ear Drops,895,257.0,88,973,455,March-2022
+AB840718,OmniPharm Ltd.,PRD570,Pain Relief Gel,Cholesterol Control,560,334.0,0,307,283,April-2022
+AB657126,Pulse Pharma,PRD121,Gastric Relief Tablets,Herbal Cough Syrup,704,310.0,0,344,92,March-2022
+AB557613,Sunrise Meds,PRD150,Cholesterol Control,Baby Lotion,665,344.0,84,127,24,January-2024
+AB840718,Sunrise Meds,PRD676,Thyroid Support,Immune Booster,37,242.0,44,11,312,April-2022
+AB253519,Sunrise Meds,PRD731,Pain Relief Gel,Anti-Hypertensive,544,308.0,79,148,58,January-2024
+AB512147,GoodHealth Traders,PRD409,Laxative Powder,notfound,110,75.0,0,513,167,April-2023
+AB852944,Pulse Pharma,PRD780,Steroid Cream,Dental Gel,964,257.0,71,533,382,April-0
+AB852944,Medico Distributors,PRD885,Paracetamol 500mg,Antiseptic Solution,361,147.0,51,298,261,January-0
+AB394675,TrustMed Inc,PRD857,Anti-Malarial Tablets,Diabetes Care Tablets,370,43.0,41,74,478,January-2022
+AB657126,BetterLife Pharma,PRD825,Muscle Relaxant,HeartCare Capsules,256,493.0,98,615,494,February-2023
+AB852944,Nova Lifecare,PRD247,Muscle Relaxant,Skin Brightening Cream,327,58.0,47,331,252,March-2023
+AB557613,GoodHealth Traders,PRD763,Cold Relief Tablets,Antacid Suspension,152,331.0,7,909,442,April-2022
+AB253519,Zenith Drugs,PRD736,Anti-Fungal Cream,Cold Relief Tablets,0,67.0,65,426,255,January-2022
+AB991249,Vision Healthcare,PRD617,Anti-Malarial Tablets,notfound,359,417.0,79,740,10,March-2023
+AB394675,Pulse Pharma,PRD121,Fever Reducer,Allergy Tablets,521,60.0,32,297,316,April-2023
+AB557613,BlueCross Med,PRD881,Gastric Relief Tablets,Baby Lotion,241,360.0,78,420,500,April-2023
+AB852944,Prime Medicals,PRD879,Thyroid Support,Cold Relief Tablets,412,268.0,87,641,345,April-2023
+AB852944,Sterling Remedies,PRD575,Eye Drops,Insulin Injection,378,168.0,78,608,312,February-0
+AB697980,OmniPharm Ltd.,PRD250,Immune Booster,Energy Booster,59,452.0,42,355,194,January-0
+AB697980,BlueCross Med,PRD825,Motion Sickness Tablets,Pain Relief Gel,289,148.0,33,387,121,January-2023
+AB912424,GoodHealth Traders,PRD607,Digestive Enzyme,Energy Booster,136,712.0,14,732,130,January-2023
+AB512147,Nova Lifecare,PRD600,Zincovit Syrup,Eye Drops,938,302.0,78,600,0,March-2024
+AB697980,Careplus Distributors,PRD954,Blood Purifier,Eye Drops,892,-557.0,85,339,81,March-2022
+AB852944,Sterling Remedies,PRD554,Anti-Anxiety Tablets,notfound,183,288.0,4,532,435,April-2023
+AB578442,TruMed Solutions,PRD205,Probiotic Capsules,Baby Lotion,492,421.0,98,727,206,January-2024
+AB253519,Careplus Distributors,PRD455,Joint Pain Oil,Acne Gel,678,74.0,52,87,470,April-2022
+AB263215,Prime Medicals,PRD647,Muscle Relaxant,Digestive Enzyme,384,371.0,66,423,259,April-2023
+AB840718,OmniPharm Ltd.,PRD554,Baby Lotion,notfound,223,265.0,0,931,169,March-2023
+AB697650,TruMed Solutions,PRD881,Herbal Cough Syrup,notfound,42,103.0,98,587,360,March-0
+AB991249,Alpha Pharma,PRD554,Allergy Tablets,Insulin Injection,999,285.0,78,720,187,March-2022
+AB463755,Alpha Pharma,PRD911,Immune Booster,Energy Booster,366,300.0,-252,121,293,January-2023
+AB263215,Prime Medicals,PRD409,Sleep Aid Tablets,Energy Booster,420,336.0,94,731,50,January-2024
+AB650596,TruMed Solutions,PRD205,Baby Lotion,Probiotic Capsules,348,330.0,0,778,448,January-2024
+AB912424,Prime Medicals,PRD247,Thyroid Support,HeartCare Capsules,390,64.0,91,387,305,February-2022
+AB991249,Lifeline Meds,PRD250,Wound Healing Spray,notfound,72,429.0,100,182,306,April-2022
+AB831874,Medico Distributors,PRD999,Wound Healing Spray,Probiotic Capsules,377,496.0,2,877,268,February-0
+AB912424,Zenith Drugs,PRD617,Vitamin D3 Tablets,B-Complex Tablets,902,194.0,32,131,72,February-2022
+AB578442,BetterLife Pharma,PRD763,Cold Relief Tablets,Cough Syrup,646,232.0,9,957,368,February-2022
+AB114511,TruMed Solutions,PRD150,Immune Booster,Zincovit Syrup,770,160.0,26,845,30,March-2024
+AB840718,Zenith Drugs,PRD899,Calcium Tablets,Cough Syrup,772,,,435,202,January-0
+AB578442,CureWell Pharma,PRD600,Laxative Powder,Multivitamin Drops,269,90.0,85,717,329,April-2022
+AB650596,TrustMed Inc,PRD763,Herbal Cough Syrup,Immune Booster,493,254.0,93,600,110,February-2024
+AB263215,Prime Medicals,PRD455,Wound Healing Spray,notfound,393,131.0,100,1000,496,March-2022
+AB697650,TruMed Solutions,PRD895,Oral Rehydration Salts,Motion Sickness Tablets,0,44.0,66,273,393,April-2023
+AB578442,Careplus Distributors,PRD396,Allergy Tablets,HeartCare Capsules,23,150.0,76,278,381,March-2023
+AB253519,Sterling Remedies,PRD911,Antiseptic Solution,Amoxicillin 250mg,115,802.0,0,568,349,February-2023
+AB831874,Zenith Drugs,PRD455,Digestive Enzyme,Immune Booster,55,852.0,59,728,238,April-2024
+AB394675,BlueCross Med,PRD476,Immune Booster,notfound,5,115.0,80,170,354,April-0
+AB657126,Pulse Pharma,PRD899,B-Complex Tablets,Anti-Fungal Cream,371,131.0,9,316,323,April-2024
+AB691907,Zenith Drugs,PRD214,Blood Purifier,notfound,199,673.0,70,906,36,March-2023
+AB253519,OmniPharm Ltd.,PRD247,Laxative Powder,notfound,668,419.0,9,738,260,February-2022
+AB578442,Lifeline Meds,PRD617,Cold Relief Tablets,Skin Ointment,338,351.0,32,56,410,March-2023
+AB114511,OmniPharm Ltd.,PRD914,Anti-Fungal Cream,Zincovit Syrup,301,394.0,-548,43,104,March-0
+AB263215,Alpha Pharma,PRD144,Amoxicillin 250mg,Blood Purifier,777,314.0,45,862,421,January-2022
+AB512147,Zenith Drugs,PRD999,Antacid Suspension,Motion Sickness Tablets,723,380.0,99,227,216,January-2024
+AB463755,Careplus Distributors,PRD247,Oral Rehydration Salts,Antacid Suspension,631,424.0,19,531,21,February-2023
+AB114511,BetterLife Pharma,PRD205,Blood Purifier,notfound,120,354.0,7,683,110,February-2023
+AB114511,Careplus Distributors,PRD780,Skin Ointment,notfound,909,56.0,68,927,474,January-2023
+AB463755,Sunrise Meds,PRD250,Joint Pain Oil,Herbal Cough Syrup,880,384.0,87,309,193,February-2022
+AB657126,CureWell Pharma,PRD825,Muscle Relaxant,Pain Relief Gel,542,344.0,37,762,415,April-2023
+AB467618,BlueCross Med,PRD895,Wound Healing Spray,B-Complex Tablets,39,268.0,84,984,415,March-2024
+AB263215,Prime Medicals,PRD510,Vitamin D3 Tablets,Eye Drops,324,245.0,38,78,499,February-2023
+AB578442,BlueCross Med,PRD396,Herbal Cough Syrup,Cough Syrup,435,376.0,360,928,243,March-0
+AB912424,TrustMed Inc,PRD857,Laxative Powder,notfound,54,261.0,72,610,366,March-2023
+AB107743,Lifeline Meds,PRD347,Thyroid Support,Blood Purifier,275,74.0,49,390,44,April-2023
+AB697980,Sterling Remedies,PRD150,Multivitamin Drops,Anti-Malarial Tablets,18,384.0,39,83,190,March-0
+AB831874,HealMore Agency,PRD396,Hair Growth Serum,Oral Rehydration Salts,702,160.0,66,994,324,April-2024
+AB657126,Lifeline Meds,PRD899,Sleep Aid Tablets,Steroid Cream,592,209.0,98,844,55,February-2024
+AB697650,OmniPharm Ltd.,PRD315,Cholesterol Control,Motion Sickness Tablets,236,102.0,0,646,307,February-2023
+AB650596,Careplus Distributors,PRD455,Fever Reducer,Blood Purifier,823,292.0,91,416,221,February-2022
+AB512147,Zenith Drugs,PRD510,Amoxicillin 250mg,Anti-Malarial Tablets,621,138.0,0,864,487,March-2024
+AB107743,Sterling Remedies,PRD914,Cold Relief Tablets,Oral Rehydration Salts,519,245.0,100,492,416,January-2023
+AB512147,Medico Distributors,PRD528,Zincovit Syrup,notfound,680,248.0,81,609,24,April-2023
+AB912424,Sunrise Meds,PRD607,Herbal Cough Syrup,Anti-Hypertensive,24,372.0,6,353,28,April-2022
+AB840718,GoodHealth Traders,PRD789,Skin Ointment,Digestive Enzyme,740,37.0,23,167,482,January-2023
+AB991249,Lifeline Meds,PRD214,Anti-Anxiety Tablets,notfound,317,421.0,88,813,500,March-2022
+AB114511,HealMore Agency,PRD911,Joint Pain Oil,Thyroid Support,35,167.0,55,869,489,February-2022
+AB263215,Zenith Drugs,PRD575,Skin Ointment,Dental Gel,331,288.0,9,452,422,April-2022
+AB578442,Careplus Distributors,PRD899,Probiotic Capsules,Liver Tonic,751,128.0,35,447,306,April-2022
+AB107743,TruMed Solutions,PRD742,Wound Healing Spray,Paracetamol 500mg,744,292.0,57,251,24,April-2022
+AB467618,GoodHealth Traders,PRD751,Pain Relief Gel,Sleep Aid Tablets,713,261.0,63,976,247,April-2023
+AB657126,BetterLife Pharma,PRD151,Multivitamin Drops,notfound,484,477.0,9,738,232,February-2023
+AB912424,GoodHealth Traders,PRD519,Fever Reducer,Ear Drops,609,301.0,345,785,470,February-2023
+AB840718,CureWell Pharma,PRD151,Fever Reducer,Diabetes Care Tablets,784,222.0,16,778,336,April-2022
+AB394675,Sunrise Meds,PRD150,Nasal Spray,Iron Supplement,278,266.0,94,543,331,April-0
+AB578442,CureWell Pharma,PRD881,Hair Growth Serum,notfound,741,447.0,56,146,316,January-2022
+AB691907,Global Health Corp,PRD476,Muscle Relaxant,Vitamin D3 Tablets,868,245.0,42,932,209,April-2024
+AB263215,TrustMed Inc,PRD315,Thyroid Support,HeartCare Capsules,540,75.0,71,135,313,January-2022
+AB557613,Lifeline Meds,PRD617,Anti-Hypertensive,Probiotic Capsules,769,487.0,-629,218,409,March-2024
+AB691907,GoodHealth Traders,PRD879,Herbal Cough Syrup,Calcium Tablets,57,486.0,39,385,197,February-2023
+AB840718,TruMed Solutions,PRD144,Multivitamin Drops,Eye Drops,723,242.0,46,589,298,February-2023
+AB463755,HealMore Agency,PRD600,B-Complex Tablets,Iron Supplement,341,500.0,74,671,76,January-2022
+AB697980,Alpha Pharma,PRD151,Gastric Relief Tablets,notfound,908,361.0,100,830,480,April-2023
+AB852944,TrustMed Inc,PRD144,Dental Gel,Dental Gel,129,412.0,15,949,267,January-2024
+AB691907,Nova Lifecare,PRD789,Diabetes Care Tablets,B-Complex Tablets,867,77.0,85,348,125,February-2024
+AB557613,CureWell Pharma,PRD144,HeartCare Capsules,Pain Relief Gel,168,265.0,536,810,159,January-2024
+AB831874,Vision Healthcare,PRD647,Vitamin D3 Tablets,Blood Purifier,235,305.0,7,491,129,January-2023
+AB697650,Prime Medicals,PRD519,Oral Rehydration Salts,Menstrual Pain Relief,190,31.0,54,538,323,April-2022
+AB253519,Nova Lifecare,PRD825,Gastric Relief Tablets,Nasal Spray,637,186.0,0,747,356,March-2023
+AB253519,TrustMed Inc,PRD214,HeartCare Capsules,Paracetamol 500mg,228,395.0,32,645,370,April-2023
+AB467618,BetterLife Pharma,PRD857,B-Complex Tablets,Liver Tonic,929,367.0,11,470,274,February-2023
+AB114511,Sunrise Meds,PRD250,Antacid Suspension,Zincovit Syrup,805,31.0,25,951,291,January-2023
+AB912424,Medico Distributors,PRD895,Anti-Malarial Tablets,notfound,435,206.0,62,613,478,March-2023
+AB991249,Sterling Remedies,PRD985,Fever Reducer,Muscle Relaxant,197,143.0,96,144,80,March-2023
+AB691907,BetterLife Pharma,PRD607,Menstrual Pain Relief,Vitamin D3 Tablets,924,435.0,35,593,217,January-2022
+AB697650,Sunrise Meds,PRD763,Wound Healing Spray,Dental Gel,501,423.0,84,673,228,January-2022
+AB657126,Sterling Remedies,PRD954,HeartCare Capsules,notfound,872,241.0,26,895,80,February-2023
+AB394675,Sterling Remedies,PRD899,Anti-Anxiety Tablets,Motion Sickness Tablets,219,376.0,76,416,447,March-2023
+AB831874,TruMed Solutions,PRD570,Hair Growth Serum,Dental Gel,792,39.0,88,42,162,April-2023
+AB657126,Nova Lifecare,PRD237,Skin Brightening Cream,Hair Growth Serum,418,213.0,80,339,120,March-0
+AB578442,Lifeline Meds,PRD879,Amoxicillin 250mg,notfound,784,177.0,5,241,121,April-2024
+AB578442,Sunrise Meds,PRD881,Acne Gel,Anti-Hypertensive,397,332.0,17,216,437,March-2024
+AB107743,Sterling Remedies,PRD763,Baby Lotion,Antacid Suspension,709,33.0,86,811,225,March-2024
+AB991249,Vision Healthcare,PRD617,Pain Relief Gel,notfound,763,177.0,61,560,306,January-2023
+AB840718,Careplus Distributors,PRD731,Antacid Suspension,Laxative Powder,555,371.0,42,808,160,January-0
+AB912424,Careplus Distributors,PRD151,Amoxicillin 250mg,Herbal Cough Syrup,973,121.0,91,672,331,March-2022
+AB991249,Sunrise Meds,PRD976,Menstrual Pain Relief,Nasal Spray,414,143.0,0,135,47,March-2022
+AB691907,OmniPharm Ltd.,PRD826,Iron Supplement,notfound,331,41.0,317,364,325,February-2024
+AB463755,Careplus Distributors,PRD911,Immune Booster,Laxative Powder,293,-128.0,15,133,47,February-2022
+AB831874,Lifeline Meds,PRD554,Hair Growth Serum,Immune Booster,199,87.0,57,195,124,March-2022
+AB697650,Lifeline Meds,PRD789,Pain Relief Gel,Gastric Relief Tablets,50,364.0,28,210,232,February-2022
+AB114511,Pulse Pharma,PRD446,Diabetes Care Tablets,Antiseptic Solution,182,235.0,97,952,234,January-2022
+AB253519,BetterLife Pharma,PRD144,Amoxicillin 250mg,notfound,526,306.0,38,401,271,February-2022
+AB691907,BlueCross Med,PRD446,Cholesterol Control,Fever Reducer,217,267.0,92,554,272,April-2024
+AB697980,TrustMed Inc,PRD751,HeartCare Capsules,Sleep Aid Tablets,702,76.0,40,376,447,February-2024
