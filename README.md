@@ -50,20 +50,6 @@ Methodology
 
     Ensured compatibility for future integration into advanced analytics (forecasting, segmentation).
 
-Pipeline (Textual)
-
-Messy Pharma Dataset (CSV)
-        |
-        v
-Data Cleaning (duplicates removed, missing handled, names standardized)
-        |
-        v
-Cleaned Dataset (Structured CSV)
-        |
-        v
-Business Insights (Dashboards / Analysis)
-
-
 Skills Applied
 
     Data Wrangling: Python (Pandas), Excel
